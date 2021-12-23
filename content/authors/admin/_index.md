@@ -23,15 +23,12 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc. Mathematics
+      institution: Technical University of Berlin
+      year: 2018
+    - course: Bsc. Mathematics
+      institution: Free University of Berlin
+      year: 2015
 superuser: true
 highlight_name: true
 title: Fabian Fumagalli
