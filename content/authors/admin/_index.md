@@ -22,13 +22,7 @@ organizations:
   - name: Bielefeld University
     url: ""
 education:
-  courses:
-    - course: Msc. Mathematics
-      institution: Technical University of Berlin
-      year: 2018
-    - course: Bsc. Mathematics
-      institution: Free University of Berlin
-      year: 2015
+  courses: []
 superuser: true
 highlight_name: true
 title: Fabian Fumagalli
